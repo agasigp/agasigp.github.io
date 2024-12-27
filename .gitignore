@@ -23,7 +23,7 @@
 # # !static/img
 
 # # uncomment below if you are migrating from WordPress
-static/wp-content/*
+# static/wp-content/*
 
 # Hugo build output
 /public/
