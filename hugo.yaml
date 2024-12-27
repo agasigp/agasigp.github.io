@@ -1,0 +1,117 @@
+baseURL: https://www.agasigp.web.id
+languageCode: id-ID
+title: Agasi GP Blog
+theme: PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+taxonomies:
+  categories: categories
+  tag: tags
+
+minify:
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: Blog Pribadi
+  defaultTheme: auto
+  disableThemeToggle: false
+  showShareButtons: true
+  showReadingTime: true
+  ShowShareButtons: true
+  showToc: true
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  comments: true
+  hideFooter: false
+  assets:
+    favicon: /favicon.ico
+    disableHLJS: true
+  # homeInfoParams:
+  #   Title: Hi there wave
+  #   Content: Can be Info, links, about...
+  ShowPostNavLinks: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+  label:
+    text: "Agasi GP Blog"
+    icon: icon.png
+    iconHeight: 35
+
+  analytics:
+      google:
+          SiteVerificationTag: "G-NB6RZ7MCL7"
+
+  socialIcons: # optional
+    - name: "x"
+      url: "https://x.com/agasigp"
+    - name: "threads"
+      url: "https://www.threads.net/@agasigp"
+    - name: "github"
+      url: "https://github.com/agasigp"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/agasigp/"
+    - name: "whatsapp"
+      url: "https://wa.me/6285729889349"
+    - name: "telegram"
+      url: "https://t.me/agasigp"
+    - name: "email"
+      url: "mailto:mail@agasigp.web.id"
+defaultContentLanguage: id
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+
+services:
+  disqus:
+    shortname: agasigp
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed
+
+menu:
+  main:
+    - name: Arsip
+      url: archives
+      weight: 1
+    - name: Kategori
+      url: categories
+      weight: 2
+    - name: Tags
+      url: tags
+      weight: 3
+    - name: Tentang Saya
+      url: about
+      weight: 4
+    - name: Pencarian
+      url: search
+      weight: 5
+   
