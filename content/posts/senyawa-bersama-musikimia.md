@@ -1,12 +1,12 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - acara
 cover:
   alt: Logo Musikimia
   image: /wp-content/uploads/2013/04/1343971802_logo_musikimia_2_s_new.jpg
 date: "2013-04-29T18:23:31+00:00"
-guid: http://agasigp.wordpress.com/?p=84
+guid: http://agasigp.web.id/?p=84
 tag:
   - konser
   - musikimia

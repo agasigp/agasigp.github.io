@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - curhat
 date: "2013-09-02T15:22:57+00:00"
-guid: http://agasigp.wordpress.com/?p=121
+guid: http://agasigp.web.id/?p=121
 tag:
   - amikom
   - jogja

@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - development
 date: "2014-07-04T10:23:40+00:00"
-guid: http://agasigp.wordpress.com/?p=128
+guid: http://agasigp.web.id/?p=128
 tag:
   - android
   - java

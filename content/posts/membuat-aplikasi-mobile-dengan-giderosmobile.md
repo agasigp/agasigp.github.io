@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - development
 date: "2012-10-16T16:37:21+00:00"
-guid: http://agasigp.wordpress.com/?p=51
+guid: http://agasigp.web.id/?p=51
 tag:
   - android
   - games

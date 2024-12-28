@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - acara
 date: "2013-02-20T13:15:38+00:00"
-guid: http://agasigp.wordpress.com/?p=71
+guid: http://agasigp.web.id/?p=71
 tag:
   - bupati
   - pilkada

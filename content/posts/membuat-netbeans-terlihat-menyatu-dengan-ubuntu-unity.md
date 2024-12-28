@@ -1,10 +1,10 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - development
   - linux
 date: "2013-06-04T05:41:20+00:00"
-guid: http://agasigp.wordpress.com/?p=114
+guid: http://agasigp.web.id/?p=114
 tag:
   - linux
   - netbeans

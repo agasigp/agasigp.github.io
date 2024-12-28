@@ -1,0 +1,2 @@
+# Blog Pribadi
+Repo ini merupakan konten untuk blog pribadi saya yang dibuat menggunakan [hugo](https://gohugo.io/) & tema [papermod](https://github.com/adityatelange/hugo-PaperMod). Silahkan untuk berkontribusi jika ada kesalahan di web ini dengan melakukan PR (pull request).

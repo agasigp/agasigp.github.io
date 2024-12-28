@@ -1,10 +1,10 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - acara
   - linux
 date: "2013-03-24T16:27:55+00:00"
-guid: http://agasigp.wordpress.com/?p=77
+guid: http://agasigp.web.id/?p=77
 tag:
   - jogja
   - kpli

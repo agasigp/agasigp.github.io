@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - info
 date: "2014-11-07T03:14:23+00:00"
-guid: http://agasigp.wordpress.com/?p=142
+guid: http://agasigp.web.id/?p=142
 tag:
   - saru
   - web

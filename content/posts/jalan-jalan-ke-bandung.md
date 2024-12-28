@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - acara
 date: "2013-07-02T03:00:04+00:00"
-guid: http://agasigp.wordpress.com/?p=117
+guid: http://agasigp.web.id/?p=117
 tag:
   - bandung
   - nikah

@@ -1,10 +1,10 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - lain-lain
 date: "2013-05-13T06:22:12+00:00"
 draft: "true"
-guid: http://agasigp.wordpress.com/?p=98
+guid: http://agasigp.web.id/?p=98
 title: Panggilan Allah
 url: /
 

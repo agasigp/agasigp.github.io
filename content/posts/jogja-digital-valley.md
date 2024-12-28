@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - info
 date: "2013-09-02T16:19:41+00:00"
-guid: http://agasigp.wordpress.com/?p=123
+guid: http://agasigp.web.id/?p=123
 tag:
   - jdv
   - jogja

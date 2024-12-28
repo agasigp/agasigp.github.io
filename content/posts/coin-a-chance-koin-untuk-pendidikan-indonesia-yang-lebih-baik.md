@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - acara
 date: "2013-02-19T15:12:16+00:00"
-guid: http://agasigp.wordpress.com/?p=62
+guid: http://agasigp.web.id/?p=62
 tag:
   - coin
   - social

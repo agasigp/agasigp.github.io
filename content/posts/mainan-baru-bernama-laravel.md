@@ -1,10 +1,10 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - development
   - php
 date: "2014-11-07T00:00:00+00:00"
-guid: http://agasigp.wordpress.com/?p=138
+guid: http://agasigp.web.id/?p=138
 tag:
   - codeigniter
   - laravel

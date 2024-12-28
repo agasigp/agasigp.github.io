@@ -1,10 +1,10 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - lain-lain
 date: "2013-04-01T15:50:56+00:00"
 draft: "true"
-guid: http://agasigp.wordpress.com/?p=74
+guid: http://agasigp.web.id/?p=74
 title: Sedia Payung Sebelum Hujan
 url: /
 
