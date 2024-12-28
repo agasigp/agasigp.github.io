@@ -6,7 +6,7 @@ title: Tentang Saya
 url: /about/
 ---
 
-<img src="/cropped-agasi.jpg" style="display: block;margin-left: auto;margin-right: auto;" />
+<img src="/img/cropped-agasi.jpg" style="display: block;margin-left: auto;margin-right: auto;" />
 
 Perkenalkan, saya **Agasi Gilang Persada**, seorang web developer asal Purwokerto dengan lebih dari satu dekade pengalaman di dunia teknologi & informasi, khususnya di dunia pemrograman web🌐. Sehari-hari kerjaan saya menulis kode program untuk membuat aplikasi web⌨.
 
