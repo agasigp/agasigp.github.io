@@ -1,5 +1,5 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - opini
 date: "2016-05-21T10:17:52+00:00"

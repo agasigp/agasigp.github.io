@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - pengalaman
 date: "2013-05-29T17:36:50+00:00"
-guid: http://agasigp.wordpress.com/?p=100
+guid: http://agasigp.web.id/?p=100
 tag:
   - gubernur
   - pilgub

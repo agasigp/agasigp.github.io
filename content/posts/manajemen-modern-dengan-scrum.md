@@ -1,5 +1,5 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - uncategorized
 date: "2016-01-08T19:50:38+00:00"

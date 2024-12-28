@@ -1,5 +1,5 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - acara
   - linux
@@ -7,7 +7,7 @@ cover:
   alt: Raring Release Party
   image: /wp-content/uploads/2013/05/e72a7-13-04-tile.jpg
 date: "2013-05-06T17:52:39+00:00"
-guid: http://agasigp.wordpress.com/?p=91
+guid: http://agasigp.web.id/?p=91
 tag:
   - linux
   - ubuntu

@@ -1,11 +1,11 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - development
   - php
   - web
 date: "2013-05-08T01:11:52+00:00"
-guid: http://agasigp.wordpress.com/?p=96
+guid: http://agasigp.web.id/?p=96
 tag:
   - codeigniter
   - netbeans

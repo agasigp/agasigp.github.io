@@ -1,10 +1,10 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - development
   - info
 date: "2013-05-02T14:36:59+00:00"
-guid: http://agasigp.wordpress.com/?p=88
+guid: http://agasigp.web.id/?p=88
 tag:
   - games
   - html5

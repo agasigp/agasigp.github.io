@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - curhat
 date: "2014-06-01T14:10:43+00:00"
-guid: http://agasigp.wordpress.com/?p=125
+guid: http://agasigp.web.id/?p=125
 tag:
   - curhat
 title: Komitmen Baru

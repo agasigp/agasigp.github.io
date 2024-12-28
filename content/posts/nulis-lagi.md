@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - pengalaman
 date: "2012-09-26T12:26:54+00:00"
-guid: http://agasigp.wordpress.com/?p=11
+guid: http://agasigp.web.id/?p=11
 tag:
   - hosting
 title: Nulis Lagi

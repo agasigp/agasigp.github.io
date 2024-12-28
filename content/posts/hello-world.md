@@ -1,9 +1,9 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 categories:
   - lain-lain
 date: "2012-07-07T22:07:59+00:00"
-guid: http://agasigp.wordpress.com/?p=1
+guid: http://agasigp.web.id/?p=1
 title: Hello world!
 url: /2012/07/08/hello-world-2/
 

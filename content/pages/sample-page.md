@@ -1,5 +1,5 @@
 ---
-author: agasigp
+author: Agasi Gilang Persada
 date: "2015-10-26T17:51:26+00:00"
 guid: http://www.agasigp.web.id/?page_id=2
 title: Sample Page
