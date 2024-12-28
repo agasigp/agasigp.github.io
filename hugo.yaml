@@ -33,9 +33,38 @@ params:
   assets:
     favicon: /favicon.ico
     disableHLJS: true
-  # homeInfoParams:
-  #   Title: Hi there wave
-  #   Content: Can be Info, links, about...
+  homeInfoParams:
+    Title: Sugeng Rawuh
+    Content: >
+      <div style="display: flex;width: 100%;">
+        <!-- Foto Profil -->
+        <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+            <img src="cropped-agasi.jpg" alt="Foto Profil" style="width:65%;border-radius: 50%; object-fit: cover;">
+        </div>
+        
+        <!-- Deskripsi Profil -->
+        <div style="flex: 2;">
+            <strong>Agasi Gilang Persada</strong>
+            <p margin-top: 8px;">
+              Tukang ketik kode buat bikin web ⌨ | Pengguna 🐧sehari-hari | Penggemar MotoGP🏍 & F1🏎 | Ada pertanyaan? Hubungi kontak dibawah ini⬇
+            </p>
+        </div>
+      </div>
+  socialIcons: # optional
+    - name: "x"
+      url: "https://x.com/agasigp"
+    - name: "threads"
+      url: "https://www.threads.net/@agasigp"
+    - name: "github"
+      url: "https://github.com/agasigp"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/agasigp/"
+    - name: "whatsapp"
+      url: "https://wa.me/6285729889349"
+    - name: "telegram"
+      url: "https://t.me/agasigp"
+    - name: "email"
+      url: "mailto:mail@agasigp.web.id"
   ShowPostNavLinks: true
   fuseOpts:
     isCaseSensitive: false
@@ -55,22 +84,6 @@ params:
   analytics:
       google:
           SiteVerificationTag: "G-NB6RZ7MCL7"
-
-  socialIcons: # optional
-    - name: "x"
-      url: "https://x.com/agasigp"
-    - name: "threads"
-      url: "https://www.threads.net/@agasigp"
-    - name: "github"
-      url: "https://github.com/agasigp"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/agasigp/"
-    - name: "whatsapp"
-      url: "https://wa.me/6285729889349"
-    - name: "telegram"
-      url: "https://t.me/agasigp"
-    - name: "email"
-      url: "mailto:mail@agasigp.web.id"
 defaultContentLanguage: id
 
 markup:
@@ -85,6 +98,8 @@ markup:
 services:
   disqus:
     shortname: agasigp
+  googleAnalytics:
+    id: G-NB6RZ7MCL7
 
 outputs:
   home:
