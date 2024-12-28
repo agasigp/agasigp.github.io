@@ -39,7 +39,7 @@ params:
       <div style="display: flex;width: 100%;">
         <!-- Foto Profil -->
         <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-            <img src="cropped-agasi.jpg" alt="Foto Profil" style="width:65%;border-radius: 50%; object-fit: cover;">
+            <img src="/img/cropped-agasi.jpg" alt="Foto Profil" style="width:65%;border-radius: 50%; object-fit: cover;">
         </div>
         
         <!-- Deskripsi Profil -->
