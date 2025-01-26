@@ -15,7 +15,7 @@ title: Ubuntu Raring Release Party Jogja
 url: /2013/05/07/ubuntu-raring-release-party-jogja/
 
 ---
-\[caption id="" align="alignleft" width="350"\]![Ubuntu Raring Ringtail](/wp-content/uploads/2013/05/e72a7-13-04-tile.jpg) Ubuntu Raring Ringtail\[/caption\]
+![Ubuntu Raring Ringtail](/wp-content/uploads/2013/05/e72a7-13-04-tile.jpg) Ubuntu Raring Ringtail
 
 Salah satu distri Linux terkenal, [Ubuntu](http://ubuntu.com "Ubuntu"),baru saja merilis versi terbarunya April kemarin dengan nama [Ubuntu 13.04 Raring Ringtail](http://www.ubuntu.com/desktop "Ubuntu Desktop"). Saya lupa tepatnya tanggal berapa rilis. Sesuai jadwal rilis,Ubuntu memang dirilis tiap 2 tahun sekali,yaitu bulan April dan Oktober tiap tahunnya. Jadi,besok bulan Oktober 2013,Ubuntu akan rilis versi terbaru lagi dengan nama [Ubuntu 13.10 Salamander Saucy](https://wiki.ubuntu.com/SaucySalamander "Ubuntu Saucy Salamander").
 

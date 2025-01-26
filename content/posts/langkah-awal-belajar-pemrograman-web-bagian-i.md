@@ -32,7 +32,7 @@ Server side programming disini berarti bahasa pemrograman yang berjalan disisi s
 
 Setelah tahu perbedaan antara client side dan server side programming, selanjutnya adalah kita harus tahu hubungan antar keduanya. Hubungan antara keduanya digambarkan seperti gambar berikut.
 
-\[caption id="" align="aligncenter" width="400"\]![http request](https://mdn.mozillademos.org/files/4291/client-server.png) http request\[/caption\]
+![http request](https://mdn.mozillademos.org/files/4291/client-server.png) http request
 
 Browser mengirimkan request ke server. Dari request tersebut, server akan mengembalikan respon. Konsep secara umum seperti itu. Jika ingin lebih tahu lebih dalam tentang konsep ini, silahkan cari info lebih lanjut tentang http request. Gunakan pencarian di google image untuk mendapatkan info mengenai detail tentang http request dalam bentuk gambar agar mudah dipahami.
 

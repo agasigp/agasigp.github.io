@@ -21,10 +21,9 @@ Terakhir, nomor urut 3 yang diusung oleh PDI Perjuangan adalah [**Ganjar Pranow
 
 Saya sendiri menyoblos di TPS 01 SDN 1 Karangnanas,Sokaraja,Banyumas. Ketika saya datang ke TPS sekitar jam 10,terlihat hanya ada petugas saja. Setelah nyoblos,baru terlihat 5-10 warga yang datang untuk menyoblos. Melihat di TPS sekitar temat tinggal juga terlihat tidak begitu ramai,hanya terlihat 5-10 orang saja.
 
-\[caption id="attachment\_101" align="aligncenter" width="300"\] [![TPS 01 SDN 01 Karangnanas,Sokaraja,Banyumas](/wp-content/uploads/2013/05/2013-05-26-544.jpg?w=300)](/wp-content/uploads/2013/05/2013-05-26-544.jpg) TPS 01 SDN 01 Karangnanas,Sokaraja,Banyumas\[/caption\]
+[![TPS 01 SDN 01 Karangnanas,Sokaraja,Banyumas](/wp-content/uploads/2013/05/2013-05-26-544.jpg?w=300)](/wp-content/uploads/2013/05/2013-05-26-544.jpg) TPS 01 SDN 01 Karangnanas,Sokaraja,Banyumas.
+![](/wp-content/uploads/2013/05/2013-05-26-549.jpg)
 
-{{< figure align=aligncenter width=300 src="/wp-content/uploads/2013/05/2013-05-26-549.jpg?w=300" alt="" >}}
-
-Oya,ada satu hal yang agak aneh yang saya alami. Saya sempat kecwa,karena nama saya tidak terdaftar di  [DPT KPU Jateng](http://www.kpu-jatengprov.go.id/pilgub/dpt.php),yang berarti saya tidak bisa menyoblos. Waktu [Pemilihan Bupati Banyumas](http://agasigp.wordpress.com/2013/02/20/golput-pilkada-bupati/) kemarin,saya tidak nyoblos,jadi Pilgub kali ini harus nyoblos. Nah,pas saya sampai dirumah,ternyata ada undangan untuk menyoblos. Akhirnya bisa nyoblos deh dan saya tidak jadi kecewa. Berarti,saya berasumsi data DPT di KPU Jateng tidak lengkap.
+Oya,ada satu hal yang agak aneh yang saya alami. Saya sempat kecewa,karena nama saya tidak terdaftar di  [DPT KPU Jateng](http://www.kpu-jatengprov.go.id/pilgub/dpt.php),yang berarti saya tidak bisa menyoblos. Waktu [Pemilihan Bupati Banyumas](http://agasigp.wordpress.com/2013/02/20/golput-pilkada-bupati/) kemarin,saya tidak nyoblos,jadi Pilgub kali ini harus nyoblos. Nah,pas saya sampai dirumah,ternyata ada undangan untuk menyoblos. Akhirnya bisa nyoblos deh dan saya tidak jadi kecewa. Berarti,saya berasumsi data DPT di KPU Jateng tidak lengkap.
 
 Walaupun hasil penghitungan resmi dari KPU Jateng belum selesai,tapi berdasarkan hasil hitung cepat berbagai lembaga survey,pasangan [Ganjar Pranowo - Heru Sudjatmoko menempati urutan teratas](https://www.google.com/search?q=hitung+cepat+pilkada+jateng&oq=hitung&aqs=chrome.1.57j59j0l2j62j60.2026j0&sourceid=chrome&ie=UTF-8). Hasil hitung cepat sendiri dapat merepresentasikan hasil akhir perhitungan dari KPU. Jadi,sudah bisa ditebak siapa yang akan menjadi Gubernur Jateng periode 2013-2018. Harapan saya sebagai warga Jateng,semoga gubernur yang baru nanti dapat membawa Jawa Tengah ke arah yang lebih baik lagi.

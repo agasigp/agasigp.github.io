@@ -27,14 +27,14 @@ Materi yang kami sampaikan ada tiga yaitu database, html+css+js, dan PHP. Databa
 
 Hari pertama pelatihan hanya berupa pengantar saja. Hari kedua baru sesi workshop atau pelatihan. Saya kebetulan mengisi materi tentang PHP, duet bersama Yeri. Untuk source code aplikasi bisa diunduh di [https://github.com/phpjogloraya/workshop-jepara](https://github.com/phpjogloraya/workshop-jepara) Untuk modul pelatihan bisa didownload di [http://event.phpjogloraya.com/workshop.pdf](http://event.phpjogloraya.com/workshop.pdf)
 
-\[caption id="attachment\_341" align="aligncenter" width="665"\] [![photo_2016-03-30_11-10-07](/wp-content/uploads/2016/03/photo_2016-03-30_11-10-07-1024x768.jpg)](/wp-content/uploads/2016/03/photo_2016-03-30_11-10-07.jpg) Duet Dengan Yeri\[/caption\]
+[![photo_2016-03-30_11-10-07](/wp-content/uploads/2016/03/photo_2016-03-30_11-10-07-1024x768.jpg)](/wp-content/uploads/2016/03/photo_2016-03-30_11-10-07.jpg) Duet Dengan Yeri.
 
 [![photo_2016-03-30_11-10-00](/wp-content/uploads/2016/03/photo_2016-03-30_11-10-00-768x1024.jpg)](/wp-content/uploads/2016/03/photo_2016-03-30_11-10-00.jpg)
 
 Semoga pelatihan atau workshop kali ini bisa bermanfaat bagi guru-guru RPL demi kemajuan teknologi informasi di Indonesia. Bagi yang ingin mengundang PHP Indonesia Jogloraya untuk mengisi workhsop atau pelatihan, bisa menghubungi kami melalui saya via email [mail@agasigp.web.id](mailto:mail@agasigp.web.id) atau Cahyo Sasongko ( [cahyo.ssk@gmail.com](mailto:cahyo.ssk@gmail.com)) selaku pembina PHP Indonesia dan [PHP Jogloraya.](http://phpjogloraya.com)
 
-\[caption id="attachment\_343" align="aligncenter" width="665"\] [![Selfie dengan salah satu peserta](/wp-content/uploads/2016/03/36fc843d-290e-40dc-bb95-f340ce485db3-1024x768.jpg)](/wp-content/uploads/2016/03/36fc843d-290e-40dc-bb95-f340ce485db3.jpg) Selfie dengan salah satu peserta\[/caption\]
+[![Selfie dengan salah satu peserta](/wp-content/uploads/2016/03/36fc843d-290e-40dc-bb95-f340ce485db3-1024x768.jpg)](/wp-content/uploads/2016/03/36fc843d-290e-40dc-bb95-f340ce485db3.jpg) Selfie dengan salah satu peserta.
 
-\[caption id="attachment\_339" align="aligncenter" width="665"\] [![Foto bersama para peserta pelatihan](/wp-content/uploads/2016/03/886923_10205962635966741_8582541132761837419_o-1024x768.jpg)](/wp-content/uploads/2016/03/886923_10205962635966741_8582541132761837419_o.jpg) Foto bersama para peserta pelatihan\[/caption\]
+[![Foto bersama para peserta pelatihan](/wp-content/uploads/2016/03/886923_10205962635966741_8582541132761837419_o-1024x768.jpg)](/wp-content/uploads/2016/03/886923_10205962635966741_8582541132761837419_o.jpg) Foto bersama para peserta pelatihan.
 
 **PHP Indonesia : Bersama Berkarya Berjaya!**
