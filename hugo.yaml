@@ -83,7 +83,7 @@ params:
     iconHeight: 35
   analytics:
     posthog:
-      id: 
+      id: phc_rcBKxyFPTGsiANdXbncUTEoCWdoSvRJPrRXTCnr8RWx
 
 defaultContentLanguage: id
 
