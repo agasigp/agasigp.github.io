@@ -81,6 +81,9 @@ params:
     text: "Agasi GP Blog"
     icon: icon.png
     iconHeight: 35
+  analytics:
+    posthog:
+      id: 
 
 defaultContentLanguage: id
 
@@ -96,8 +99,6 @@ markup:
 services:
   disqus:
     shortname: agasigp
-  posthog:
-    id: phc_rcBKxyFPTGsiANdXbncUTEoCWdoSvRJPrRXTCnr8RWx
 
 outputs:
   home:
