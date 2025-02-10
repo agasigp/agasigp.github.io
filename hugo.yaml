@@ -97,7 +97,7 @@ services:
   disqus:
     shortname: agasigp
   posthog:
-    id: G-NB6RZ7MCL7
+    id: phc_rcBKxyFPTGsiANdXbncUTEoCWdoSvRJPrRXTCnr8RWx
 
 outputs:
   home:
