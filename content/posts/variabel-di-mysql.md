@@ -19,22 +19,22 @@ Kemarin di grup [FB PHP Indonesia](https://www.facebook.com/groups/35688476100/p
 [![](/wp-content/uploads/2016/02/12644791_1730139003886459_3804882412041477661_n.jpg)](/wp-content/uploads/2016/02/12644791_1730139003886459_3804882412041477661_n.jpg)
 
 Query untuk menghasilkan data diatas sebetulnya cukup mudah yaitu seperti berikut :
-
-\[code language="sql"\]
+```sql
 SELECT
-@cat\_id:=category\_id,
-category\_id,
-count(category\_id) as count\_cat,
-(SELECT count(category\_id) FROM table1 WHERE status = 'Y' AND category\_id = @cat\_id) as count\_y,
-(SELECT count(category\_id) FROM table1 WHERE status = 'N' AND category\_id = @cat\_id) as count\_y
+@cat_id:=category_id,
+category_id,
+count(category_id) as count_cat,
+(SELECT count(category_id) FROM table1 WHERE status = 'Y' AND category_id = @cat_id) as count_y,
+(SELECT count(category_id) FROM table1 WHERE status = 'N' AND category_id = @cat_id) as count_y
 FROM table1
-group by category\_id\[/code\]
+group by category_id
+```
 
-Perhatikan bahwa pada query diatas, ada sesuatu yang agak berbeda, yaitu kita menggunakan simbol @, yaitu sebuah variabel, dalam hal ini variabel @cat\_id. Nilai dari kolom category\_id dimasukan ke variabel @cat\_id, kemudian nilai variabel @cat\_id nanti dipakai di tempat lain, dalam hal ini di subquery, bagian
+Perhatikan bahwa pada query diatas, ada sesuatu yang agak berbeda, yaitu kita menggunakan simbol `@`, yaitu sebuah variabel, dalam hal ini variabel `@cat_id`. Nilai dari kolom `category_id` dimasukan ke variabel `@cat_id`, kemudian nilai variabel `@cat_id` nanti dipakai di tempat lain, dalam hal ini di subquery, seperti pada query dibawah ini :
 
-\[code language="sql"\]
-SELECT count(category\_id) FROM table1 WHERE status = 'Y' AND category\_id = @cat\_id) as count\_y.
-\[/code\]
+```sql
+SELECT (count(category_id) FROM table1 WHERE status = 'Y' AND category_id = @cat_id) as count_y
+```
 
 Jadi, penggunaan variabel pun tidak hanya untuk bahasa pemrograman saja, namun di MySQL pun juga terdapat variabel untuk menyimpan data. Referensi lebih lanjut tentang penggunaan variabel di MySQL bisa dilihat [disini](http://dev.mysql.com/doc/refman/5.7/en/user-variables.html).
 
