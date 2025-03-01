@@ -4,8 +4,8 @@ date: '2025-02-13T18:01:57+07:00'
 draft: false
 title: 'Jangan Sampai Terjebak! Karakter ‘#’ di .env Bisa Bikin Laravel Error – Ini Cara Memperbaikinya!'
 cover:
-  alt: Logo Hugo.io
-  image: https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/05/02033146/laravel8530.jpg
+  alt: Logo Laravel
+  image: https://cdnlogo.com/logos/l/56/laravel-wordmark.svg
 categories:
   - development
   - web

@@ -9,15 +9,15 @@ cover:
 date: "2025-01-26T09:18:25+00:00"
 tag:
   - web
-title: Migrasi Wordpress Ke Hugo
+title: Migrasi Wordpress Ke Hugo Bagian 1
 url: /2025/01/26/migrasi-wordpress-ke-hugo
 draft: false
 
 ---
 # Ringkasan
-Tulisan ini berisi cara migrasi dari wordpress ke hugo yang terdiri dari dua bagian :
+Tulisan ini berisi cara migrasi dari wordpress ke hugo bagian pertama dari dua bagian :
 - [Bagian 1: cara migrasi wordpress ke hugo](/2025/01/26/migrasi-wordpress-ke-hugo)
-- Bagian 2: cara deploy hugo ke hosting (segera)
+- [Bagian 2: cara deploy hugo ke hosting](/2025/03/01/migrasi-wordpress-ke-hugo-2)
 
 # Alasan migrasi ke hugo
 Setelah sekian lama terbengkalai, akhirnya web saya kembali terurus kembali😅 Karena kesibukan, web saya tidak sempat saya urus. [Konten terakhir](/2016/11/21/seminar-workshop-tanda-tangan-digital) saja dibuat 8 tahun yang lalu😯. Uang saya serasa terbuang percuma karena saya setiap tahun membayar biaya domain & hosting, tapi web tidak pernah diurus😢. Untung web cuma benda mati. Kalau dia benda hidup, mungkin sudah mati karena tidak pernah diurus.
