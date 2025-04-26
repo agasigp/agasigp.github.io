@@ -22,6 +22,7 @@ params:
   description: Blog Pribadi
   defaultTheme: auto
   disableThemeToggle: false
+  dateFormat: "2 January 2006"
   showShareButtons: true
   showReadingTime: true
   ShowShareButtons: true
